@@ -23,4 +23,4 @@ function doWhileLoop(i) {
 
 do {
   console.log("I run once regardles.");
-} while (incrementVariable() < num);
+} while (doWhileLoop() < num);

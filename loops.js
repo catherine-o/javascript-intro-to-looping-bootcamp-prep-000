@@ -16,9 +16,9 @@ function whileLoop(n) {
 }
 
 
-function doWhileLoop(i) {
-  i = i + 1;
-  return i;
+function doWhileLoop(num) {
+  num = num + 1;
+  return num;
 }
 
 do {

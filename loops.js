@@ -16,7 +16,7 @@ function whileLoop(n) {
 }
 
 
-var num = 0;
+var num = 1;
 
 function doWhileLoop(num) {
   num = num + 1;
